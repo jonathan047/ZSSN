@@ -1,1 +1,0 @@
-web: gunicorn ZSSN.wsgi --log-file -
